@@ -1,0 +1,31 @@
+.input-box {
+    padding: 6px 5px;
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    margin-right: 10px;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+}
+
+.fa-check {
+    color: green;
+}
+
+.fa-cross {
+    color: red;
+}
+
+.category {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+.cross-btn {
+    padding: 4px 7px;
+    margin: 0 10px;
+}
